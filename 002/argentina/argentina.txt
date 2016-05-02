@@ -1,0 +1,5 @@
+source:
+http://www.gamingonlinux.com/articles/gol-world-tour-gaming-from-argentina.4179
+author: Segata Sanshiro 
+published at: 2014-08-20 at gamingonlinux
+licence: text: cc-by-sa pics: ??

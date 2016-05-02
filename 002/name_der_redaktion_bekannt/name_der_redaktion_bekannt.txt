@@ -1,0 +1,80 @@
+Interview mit (NAME_DER_REDAKTION_BEKANNT) Inhaber
+
+NAME_DER_REDAKTION_BEKANNT
+
+Update 2016-05-02
+Leider hat es um die Veröffentlichung dieses Interviews mit dem Interviewten einen Streit gegeben, er wollte das ich das ganze Interview lösche. Sein Name ist deshalb unkenntlich gemacht.
+Original-Wav-Datei des Interviews ist vorhanden.
+
+30-5-2014, Horst JENS, cc-by-sa
+
+H: Ich spreche mit NAME_DER_REDAKTION_BEKANNT von ...
+S: NAME_DER_REDAKTION_BEKANNT
+H: Hallo NAME_DER_REDAKTION_BEKANNT, wie lange hast Du dieses schöne Geschäftslokal schon?
+S: Seit 1. Sept. 2013.
+H: Was bekomme ich hier als Kunde?
+S: Vor allem Elektronik für den Prototyping-Bereich, Open Hardware, mit denen man selbst eigene, kleine Prototypen basteln kann. Z.B. Arduinos, Raspberry (Pi), Cubiboards und deren Sensoren, Shields usw... Unter Sensoren fallen z.B. Fotosensoren, aber auch Barometer.
+H: Deine Kunden sind eher Elektronik-Bastler oder Produzenten?
+S: Ja, auf jeden Fall. Ich habe unterschiedliche Kunden: Beginner die gerade mit Elektronik-basteln anfangen wollen und Leute die sich schon auskennen und neue Projekte starten wollen.
+H: Haust Du auch Jugendliche oder Kinder als Kunden?
+S: Eher selten. Für die Jugendlichen ist ein Problem dass sie das nötige Vorwissen für Elektronik nirgends herbekommen. Außerhalb von HTL'S ((höhere technische Lehranstalten) ist Elektronik für Jugendliche schwierig zu erlernen, weil sie es nirgends erklärt bekommen. Es gibt zu wenig (leicht zugängliche) Bildung in diesem Bereich. Öfter ist es so das hier im Geschöft Jugendliche oder Kinder mit ihren Eltern kommen -meistens mit den Vätern. Der Vater wählt dann oft die Elektronikprodukte aus und beschäftig sich und sein Kind damit.
+H: Du hast selber schon Kinder?
+S: Ja, ich habe eine sechs-jährige Tochter, die gerne bastelt, aber noch nicht mit Elektronik. Ich möchte sie gerne auf diesen Weg bringen. Ich hoffe sie wird sich einmal für Elektronik interessieren, das wäre auch beruflich ganz schöne.
+H: Hast Du eine Website oder ein Elektronikbuch welches Du für Jugendliche / Kinder empfehlen könntest die NICHT in eine HTL gehen, aber gerne mit Elektronik basteln wollen?
+S: Wenn man Elektronik lernen möchte ist es wichtig sich selbst ein paar Grundkenntisse (z.B. über das Internet) anzueignen. Danach wäre es gut wenn man Hilfe von und Konakt zu Gleichgesinnten herstellt, z.B. Bastlergruppen oder Hackerspaces, (z.B. Happylab). Ich informiere in meinem Shop auch über alle in Wien stattfindenden Workshops und Events und schreibe sie auf meine Website. Alleine kommt man nicht gut voran, man braucht andere Leute die einem weiterhelfen.
+H: Wie war das bei Dir in Deiner Jugend, woher kommt Dein Interesse für Elektronik?
+S: Ich war schon als Kind von Elektronik fasziniert und sehr neugierig. Mit 6, 7 Jahren bin ich auf den Schrank geklettert und habe den Fernseher auseinandergebaut. Meine Eltern waren darüber nicht erfreut... 
+H: Du wolltest wissen wie das funktioniert?
+S: Richtig, für mich war der Reiz immer herauszufinden, wie funktionieren Geräte? Auseinandernehmen, Verstehen, Weiterbauen. Später in meiner Karriere habe ich mich mit Freunden für Mobiltelefone (Nokia-Handys) interessiert, wir haben die "gehackt": Untermenüs verändert, Klingeltöne ausgetauscht...
+H: Diese Nokia-Handys waren nicht "offen" (open Hardware), ihr hattet keine Pläne oder Anleitungen?
+S: Wir haben alles durch ausprobieren rausbekommen. Mich hat das sehr fasziniert, bis 2011 hatte ich beruflich mit moblien Geräten zu tun - Reperatur, Softwareupdates und solche Sachen. 2011 habe ich damit aufgehört weil sich der Markt verändert hatte. Die Handys heute am Markt sind nicht mehr die Handys meiner Jugend sondern kleine Computer. 2011 bin ich dann über ein Bootcamp (Workshop) von NAME_DER_REDAKTION_BEKANNT auf den  (https://duckduckgo.com/?q=arduino Arduino Mikrokontroller) gestoßen. Ich wollte zu diesem Zeitpunkt wieder gerne selbstständig arbeiten und habe mir gedacht es gibt niemanden hier der diese Teile verkauft, ich werde sie verkaufen, ich werde anderen dabei helfen damit Sachen zu machen...
+H: Du hast deine Marktlücke entdeckt? 
+S: Genau. Ich dachte mir, fehlt mir so ein Geschäft fehlt es vielleicht anderen auch. 2013 war es soweit dass gegründet habe als Einzelunternehmer. Ich versuche viele interessante Produkte im Geschäft vor Ort zu haben, damit man in Wien (als Bastler) gut ausgestattet ist. Leider ist es in Wien so dass wir eine der letzten Bereich in Europa sind die solche interessante Elektronik-Sachen haben...
+H: Neu Hardware kommt überall anders zuerst hin bevor sie nach Wien kommt? Warum? Fehlen die entsprechenden Fachgeschäfte?
+S: Es ist nicht nur wegen dem (Mangel an entsprechendem) Geschäft. Es ist auch weil ein großer Teil der  Leute aus der Bastlerszene... selbstständig arbeiten. Sie teilen ihr Wissen nicht mit anderen.
+H: Eigenbrödler?
+S: Richtig. Sie wollen nicht ihr Wissen einfach so teilen, sie ziehen sich zurück, bleiben in ihrem Eck und arbeiten dort.
+H: Du selbst bist beim Verein NAME_DER_REDAKTION_BEKANNT, ich nehme an du hast eine andere Einstellung zum Teilen von Wissen?
+S: Ja. Wissen teilen, damit alle etwas davon haben und weiterkommen. Letztendlich, wenn wir Wissen einschränken, was machen diejenigen die nach uns kommen? 
+H: Wie bekommst Du Deine Kunden? Geht mehr über das Web oder über das Lokal?
+S: Mehr übers Web. Laufkundschaft ist eher wenig. Manchmal erkennen Leute mein Logo von der Website wieder und kommen dann ins Geschäftslokal. Die meisten Kunden erfahren via Google (Adwords) von mir. Wenn man "Arduino Wien" sucht z.B. Außerdem bin ich auf Messen und Workshops.
+H: Inwieweit sind Schulen oder HTL's Kunden von Dir? Lassen sich Schulen eine komplette Werkstatt ausstatten bei Dir?
+S: Nein. Schulen - sehr gering, leider. Schulen sind extrem distanziert. Einerseites haben sie kaum Geld, und die Lehrer beschäftigen sich nicht unbedingt gerne damit. Es gibt natürlich immer wieder einen oder zwei Lehrer die sich damit beschäftigen und engagiert sind aber viele wollen das nicht. Sie wollen nicht aus ihrem (Lehr)plan herausgehen. Leider. Diese Materialien sollten wirklich den Kindern näher gebracht werden. Im 14. Bezirk gibt es diese (http://www.mondweg.at/cms/front_content.php Mondwegschule (Volksschule)) wo 10-jährige Kinder programmieren lernen, mit Arduino. Die Kinder fördert ein externer Programmierer, der eigentlich der Vater von einem Lehrer (!) ist. Er macht das unbezahlt. Man sieht dort nach seiner Aussage dass 10-jährige Kinder mit Mikroprozessoren programmieren lernen und die Kinder Spaß haben.
+H: Vielleicht zerlegen die Kinder dann zu Hause weniger Fernseher..
+S: oder mehr!
+H: Persönliche Frage: Ich sehe Du hast einen Bart und Deine Frau hat ein Kopftuch, ich nehme an Du bist nicht nur Moslem sondern kommst auch aus einem moslemischen Land?
+S: Mein Großvater kam in den 60er Jahren aus der Türkei nach Wien.  Mein Eltern haben sich hier kennengelernt, ich bin in Wien geboren.
+H: 3.Generation...
+S: Ich bin in Österreich in die Schule und auf die Uni gegangen.
+H: Du sprichst türkisch und ich nehme an Du bist im Sommer oft dort?
+S: (lacht) Nein, ich bin im Sommer in Wien. Wenn dann eher in Österreich unterwegs. Natürlich bin ich hin und wieder in der Türkei zu Besuch.. aber wir sind hauptsächlich in Wien.
+H: Du hast keinen Einblick in das türkische Schulsystem?
+S: Doch, habe ich: Ich war in der Türkei in einem Gymnasium. Bis 13 war ich in Wien im Gymnasium, dann bis zur Matura 7 Jahre in der Türkei in einem Internat. Weil ich nicht gut genug türkisch konnte wurde ich zurückgestuft.. sonst hätte ich nicht so lange gebraucht. 
+H: Du hast in der Türkei maturiert?
+S: Ja, ich war mit meinem Bruder im Internat, es war eine coole Zeit. Zurück in Wien habe ich dann 4 Semester Rechtswissenschaften studiert aber dann damit aufgehört, es war einfach nicht meine Richtung. Ich hab dann beim Bundeshher meinen Präsenzdienst geleistet und mich immer hobbymäßig mit Elektronik beschäftigt. 2004 habe ich mich erstmals selbstständig gemacht (Handyreperatur) bis 2011. 
+H: Hast du das Gefühl die 4 Semester Jus nutzen Dir etwas wenn Du z.B. Verträge mit Lieferanten und Kunden machst...
+S: Nein. Als Techniker ist Jus eine unmögliche Studienrichtung. Vielleicht wenn ich auf der TU (technischen Universität) angefangen hätte...
+H: Nacher ist man immer gescheiter...
+S: Es ist auch der Einfluss der Eltern, wenn Sie sagen mach das, wir wollen dieses haben.. und dann ist das Studium over...
+H: Ich nehme an Du freust Dich über Laufkundschaft?
+S: Ja, das Geschäft soll nicht nur meiner Bereicherung dienen. Natürlich muss das Geschäft laufen, aber solange ich Unterstützung bekomme von Kunden kann ich weitermachen und anderen Helfen. Wenn Leute beim Großhandel bestellen födern sie nicht den Fachhandel sondern nur die großen Konzerne und die Kleinen müssen zusperren.. dann gibt es den kleinen Fachhändler nicht der sich Zeit nimmt und beratet.
+H: Auch die großen Elektronikhändler haben kompetentes, Fachpersonal wie siehst Du den Unterschied zum kleinen Fachhändler?
+S: Laut dem Feedback der Kunden die bei mir vorbeikommen sind die Kunden mit dem Wissen der Großmärktemitarbeiter gar nicht zufrieden. Denen fehlt oft das Interesse. Der Kleine interessiert sich mehr für seine Produkte, es ist sein eigenes Unternehmen.. 
+H: Er hat auch ein schmäleres Sortiment..
+S: Natürlich. Er muss sich drum kümmern. Ein Großfachhandel hat angestellte Mitarbeiter die nur während der Arbeitszeit da sind und sich darüberhinaus nicht unbedingt für die Produkte interessieren.
+H: Wenn Du sozusagen in einer anderen Stadt bist gehst du aus Prinzip eher zum kleinen Fachhändler als zum Großmarkt?
+S: Richtig. Der kleine Fachhändler hat mehr Informationen, ist mehr engagiert.
+H: Die "Geiz ist geil" Mentalität findest Du nicht so schlau?
+S: Nein. Es ist schön und gut dass solche Werbungen entstehen, aber die Leute in diese Richtung zu ziehen, das zeigt uns nur dass wir bloße, einfache Verbraucher sind, die sich auf die Information (der Werbung) verlassen, keine Ahnung vom Produkt haben müssen. Dem Großhändler geht es nur darum sein Produkt zu verkaufen, er hat nicht unbedingt das Wohl des Kunden im Auge.
+H: Du meinst am Ende mag der seine eigenen Produkte gar nicht?
+S: (lacht) Kann durchaus sein..
+H: Aber auch Du als kleiner Fachhändler musst letztendlich Umsatz machen...
+S: Natürlich. Aber: Der Unterschied ist: Ich habe kein Riesengeschäft mit hohen Fixkosten wie hohe Miete und 20 Mitarbeiter. Ich komme auch durch wenn ich an einem Tag nur zwei, drei Sachen verkaufe.
+H: Du hast weniger Druck dem Kunden etwas anzudrehen was er vielleicht gar nicht will?
+S: Richtig. Deshalb kann ich auch genauer und detailierter Auskunft geben.
+H: Danke für das Interview!
+
+
+
+
+

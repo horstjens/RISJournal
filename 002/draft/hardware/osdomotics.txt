@@ -1,0 +1,62 @@
+Sie finden diese Anleitung auch im OSDOmotics-Wiki: http://wiki.osdomotics.com/doku.php/de:projekte:tuerueberwachung
+
+Internet der Dinge:
+
+Sie bauchen:
+RIS-Journal Starterkit, bestehend aus:
+     2x Merkurboard 
+    1x Batteriehalter
+    2xAAA Batterie
+    1x Usb-Serial-Wandler
+    1x Reed-Kontakt
+    1x Reed-Magnet
+    1xSD-Karte mit vorinstalliertem SmartSara-Image für RaspberryPi
+
+sowie (nicht im Kit enthalten):
+1x ständig laufender Server ( RaspberryPi ) mit ständiger Internetverbindung.
+
+Damit können u.a. Sie folgenden  Anwendungsfall für Das Internet Der Dinge basteln:
+
+Einen Tür bzw. Fensterkontaktsensor der sich weltweit per Internet abfragen (und pingen) lässt. So können Sie von der Schule, der Arbeit oder vom Urlaub aus feststellen ob eine Türe gerade geöffnet oder geschlossen ist, egal wo Sie sich befinden.
+
+Vorgangsweise: 
+Befestigen Sie den Reed-Kontakt an der zu überwachenden Türe (Fenster). Der handelsübliche Reed-Kontakt besteht aus 2 Teilen, einem Magneten (der kommt auf den beweglichen Teil der Türe) und einem Gehäuse mit Sensor und Merkurboard (kommt auf den unbeweglichen Teil (den Türstock). Wenn die Türe geschlossen liegen Magnet und Reed-Kontakt dicht nebeneinander, und der REED-Kontakt befindet sich dadurch in der Stellung "Geschlossen".
+Wird die Türe geöffnet entfernt sich der Magnet vom REED-Kontakt und der REED-Kontakt befindet sich dadurch in der Stellung "Offen".
+
+Stecken Sie den Reedkontakt an das erste Merkuboard (jenes mit den eingelöteten Stiftleisten, siehe Skizze). 
+
+Stecken Sie die 2 AAA-Batterien in den Batteriehalter,  und verbinden Sie den Batteriehalter (schwarzes Kabel außen) mit dem Programmierstecker des ersten Merkuboards (jenes mit den eingelöteten Stiftleisten).  Der Programmierstecker ist die 6-polige Stftleiste auf der schmalen Seite des Merkurboards. Danach beginnt das LED Licht am Merkuboard 5x zu blinken, leuchtet danach kurz durchgehend und geht aus. Damit ist das erste Merkurboard (Sensor) betriebsbereit.  Fall das LED nicht leuchtet haben Sie den Batteriehalter an den falschen Pins oder verkehrt herum angesteckt. 
+
+
+Zum 2. Merkurboard (jenes ohne eingelötete Stiftleisten):
+
+Stecken Sie den USB-Serial Wandler an den Programmierstecker (die  -policge Stiftleiste) des 2. Merkuboards. Stecken Sie den USB-Stecker des Serial-Wandlers an einen freien USB-Port des Raspberry PI Computers.  
+
+Stecken Sie die beiliegende SD-Karte in den SD-Karten-Slot des RaspberryPi's. Verbinden Sie Ihren RaspberryPi mittels LAN-Kabel mit Ihrem Heimnetzwerk. (Falls Sie kein LAN-Kabel benutzen können sorgen Sie dafür dass Ihr Raspberry via W-LAN ins Heimnetzwerk kommt, siehe Link am Ende des Artikels). 
+Stecken Sie jetzt den RaspberryPi mit der Stromversorgung. Das LED-Licht am 2. Merkurboard sollte blinken und leuchten, ebenso die LED's am RaspberryPi. 
+
+Sicherheitseinstellungen
+
+Wie jeder andere Server auch sollten Sie den RaspberryPi vor Fremdzugriffen schützen indem Sie das Standardpasswort  ändern.
+
+Der Raspberry betreibt jetzt als Server eine Webseite, die zurzeit aber nur innerhalb Ihreres Heimnetzwerkes erreichbar ist. Sie können von einem beliebigem Browser in Ihrem Heimnetzwerk (inkl. dem Raspberry PI selbst) zu dieser Webseite hinsurfen, indem Sie die URL 
+http://[AAAA::1]
+aufrufen, dies ist die ipv6-Adresse des Raspberrys). 
+Sie sehen auf dieser Webseite das Bild einer Türe mit einem Glühbirnensymbol. Durch Öffnen und Schließen der (echten) Türe mit dem REED-Kontakt ändert sich die Anzeige des Glühlampensymbols auf der Website entsprechend.
+
+Wenn Sie diese Website auch außerhalb Ihres Heimnetzwerkes, vom Internet aus aufrufen wollen, sind folgende Schritte notwendig:
+
+Tragen Sie in Ihrem Router den Raspberry Pi als Webserver ein. Dazu muss der Port 80 Ihres Raspberrys durch Ihren Internet-Router in das Internet weitergeleitet werden. Siehe Link mit Anleitungen.
+
+Ihr Provider vergibt Ihrem Router eine  IP-Adresse.  
+
+Falls Sie eine "fixe" IP-Adresse haben:
+
+Durch diese IP - Adresse ist Ihr Heimnetzwerk (und damit die vom RaspberryPi erzeugte Türüberwachungswebsite) weltweit erreichbar. Gebein Sie einfach die IP-Adresse in der URL-Zeile Ihres Webbrowsers ein. 
+
+Falls Sie eine "dynamische" IP-Adresse haben:
+
+Da sich die dynamische IP-Adresse dauernd ändern kann benötigen Sie einen der folgenden freien Dienste, welche eine fixe URL bereitstellen um ihr Heimnetzwerk zu erreichen.  (siehe Link)
+
+
+PS: Anstatt eines Raspberry-Pi Computers können Sie auch einen beliebigen anderen Linux-Server verwenden, siehe Links im OSDomotics Wiki.

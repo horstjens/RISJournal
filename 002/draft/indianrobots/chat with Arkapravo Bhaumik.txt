@@ -1,0 +1,31 @@
+(08:59:18) Arkapravo Bhaumik: Hello !!
+(09:00:01) Arkapravo Bhaumik: LoL ! ..... Mister ! .... ;-)
+(09:00:23) Arkapravo Bhaumik: My My ! ;-)
+(09:01:00) Arkapravo Bhaumik: His Excellency, Lord Bhaumik in His Infinite Awesomeness ! ;-)
+(09:01:58) Arkapravo Bhaumik: Hmmmm ....... well ! ..... lets see ! .... there are a few at mobotica ! :-)
+(09:02:24) Arkapravo Bhaumik: Hang on !
+(09:04:01) Arkapravo Bhaumik: This one is pretty silly -- http://mobotica.blogspot.in/2012/10/roomba-ing-part-deux.html
+(09:04:18) Arkapravo Bhaumik: This one is cool --
+(09:04:19) Arkapravo Bhaumik: http://mobotica.blogspot.in/2011/11/ecology-based-robotics-sneak-peek.html
+(09:04:27) horst.jens@chat.facebook.com/Pidgin: thanks man !
+(09:04:55) horst.jens@chat.facebook.com/Pidgin: i will try a translation and maybe follow up with an email interview (lots of question about how is life and study in India), would that be ok for you ?
+(09:05:11) Arkapravo Bhaumik: This is okay -- http://mobotica.blogspot.in/2010/05/multiple-sensors-for-mobile-robot.html
+(09:05:25) Arkapravo Bhaumik: That is just fine  !! ..... :-)
+(09:05:41) Arkapravo Bhaumik: This one is historic -- http://mobotica.blogspot.in/2010/04/snail-my-first-robot.html
+(09:06:20) Arkapravo Bhaumik: What I know of German/Austrian kids, they are very decent and good natured ! :-)
+(09:06:34) horst.jens@chat.facebook.com/Pidgin: sounds good ! i want to be attractive for young readers (age 13+)
+(09:07:33) horst.jens@chat.facebook.com/Pidgin: Austrian kids are decent.... hahah...well, let's hope. I feel many of them are plain bored and empty-minded :-) 
+(09:07:38) Arkapravo Bhaumik: cool ! ....... the ecology robotics article would be sweet ! ...... has a futuristic thing to it !
+(09:08:08) horst.jens@chat.facebook.com/Pidgin: i get the fieeling some awesomness is creeping from your blogposts into my magazine !
+(09:08:22) Arkapravo Bhaumik: Well, across the globe ...... what I have seen, German and Chinese kids are decent, while British school kids are really really notorious ! :-)
+(09:08:36) Arkapravo Bhaumik: AWESOMENESS -- it is contagious ! ;-)
+(09:08:42) horst.jens@chat.facebook.com/Pidgin: hehehe
+(09:10:13) Arkapravo Bhaumik: :-)
+(09:12:24) Arkapravo Bhaumik: You have already taken the MONTE CARLO codes that I made in Python. I am sure your kids will like it.
+(09:13:14) horst.jens@chat.facebook.com/Pidgin: please send me link to monte carlo codes again, i'm in a big mess at the moment
+(09:13:56) Arkapravo Bhaumik: https://github.com/Arkapravo/montecarlo_python
+(09:14:55) horst.jens@chat.facebook.com/Pidgin: thanks ! 
+(09:15:03) Arkapravo Bhaumik: (y)
+ also: http://arkapravo.github.io/tortue/
+.... take that one too (however, I had help from Portugal and England in this one) .... http://arkapravo.github.io/roomba_500_ROS_drivers/
+

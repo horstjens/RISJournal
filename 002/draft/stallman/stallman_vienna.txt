@@ -1,0 +1,10 @@
+Richard Stallman (RMS) Vortrag in Wien, 30-5-2014, FH Technikum
+
+Thema: "Open Source and Open Communities"
+
+
+Dies ist keine wortwörtliche Mitschrift des Vortrags sondern ein Gedächtnisprotokoll, so wie ich den Vortrag verstanden habe. Die Original-Aufzeichnung wird laut RMS auf der (http://audio-video.gnu.org/video/#2014 FSF Homepage) unter einer cc-by-nd Lizenz zu finden sein.
+
+RMS eröffnete den Vortrag (in englischer Sprache) vor im vollen Hörsaal der FH Technikum Wien mit seiner "üblichen" Rede über die 4 Grundfreiheiten freier Software, über den Unterscheid zwischen freier Software und Open Source (free Software without ethics) und mit einer Aufzählung von Firmen, Produkten und Geschäftspraktiken die man seiner Meinung nach boykottieren sollte weil sie die Privatsphäre verletzten, die Freiheit des Nutzers verunmöglichen oder schlicht Malware sind.
+
+Das Hauptthema des Vortrags war inwiefern die 4 Grundfreiheiten freier Software auf andere Bereiche der Gesellschaft übertragbar sind, z.B. auf Copyright, Kunst und Design.
